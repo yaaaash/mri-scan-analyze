@@ -13,21 +13,21 @@ MRI Scan Analyzer is a web application designed to streamline MRI data analysis 
 
 - **Homepage:**
   
-  ![Homepage](https://imgur.com/oAbApRk)
+  ![Homepage](https://i.imgur.com/oAbApRk.png)
 
 - **Explore Features Page:**
   
-  ![Explore Features](https://imgur.com/xm4xEql)
+  ![Explore Features](https://i.imgur.com/xm4xEql.png)
 
 - **Upload Scan Page:**
   
-  ![Upload Scan 1](https://imgur.com/jEpfIha)
+  ![Upload Scan 1](https://i.imgur.com/jEpfIha.png)
   
-  ![Upload Scan 2](https://imgur.com/4NOzSmW)
+  ![Upload Scan 2](https://i.imgur.com/4NOzSmW.png)
 
 - **How It Works Page:**
   
-  ![How It Works](https://imgur.com/OF1w0rQ)
+  ![How It Works](https://i.imgur.com/OF1w0rQ.png)
 
 ## Getting Started
 
@@ -60,4 +60,3 @@ To get started with MRI Scan Analyzer, follow these steps:
 - **Features:** Explore the advanced features offered by MRI Scan Analyzer, including automated image segmentation, quantitative analysis tools, and machine learning algorithms for pattern recognition.
 - **Upload Scan:** Upload your MRI scan data to analyze it instantly using our advanced algorithms.
 - **How It Works:** Learn about the step-by-step process behind MRI Scan Analyzer, from uploading scans to viewing results and insights.
-
