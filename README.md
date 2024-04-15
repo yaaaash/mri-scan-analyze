@@ -1,27 +1,63 @@
-# MriScanAnalyze
+# MRI Scan Analyzer
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.3.
+MRI Scan Analyzer is a web application designed to streamline MRI data analysis and interpretation. Whether you're a healthcare professional, researcher, or student, our analyzer offers advanced features to enhance your MRI analysis process.
 
-## Development server
+## Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Upload MRI Scans:** Easily upload MRI scan data in DICOM format for analysis.
+- **Advanced Analysis Algorithms:** Utilize advanced machine learning algorithms and image processing techniques for accurate analysis.
+- **Real-Time Results:** View analysis results and insights in real-time, empowering informed decision-making.
+- **User-Friendly Interface:** Intuitive interface for seamless navigation and easy interpretation of results.
 
-## Code scaffolding
+## Screenshots
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Homepage:**
+  
+  ![Homepage](https://imgur.com/oAbApRk)
 
-## Build
+- **Explore Features Page:**
+  
+  ![Explore Features](https://imgur.com/xm4xEql)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- **Upload Scan Page:**
+  
+  ![Upload Scan 1](https://imgur.com/jEpfIha)
+  
+  ![Upload Scan 2](https://imgur.com/4NOzSmW)
 
-## Running unit tests
+- **How It Works Page:**
+  
+  ![How It Works](https://imgur.com/OF1w0rQ)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Getting Started
 
-## Running end-to-end tests
+To get started with MRI Scan Analyzer, follow these steps:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. **Clone the repository:**
+   
+   ```bash
+   git clone <repository-url>
+   ```
 
-## Further help
+2. **Install dependencies:**
+   
+   ```bash
+   cd mri-scan-analyzer
+   npm install
+   ```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+3. **Run the development server:**
+   
+   ```bash
+   ng serve
+   ```
+
+4. **Open your browser and navigate to `http://localhost:4200` to access the application.**
+
+## Usage
+
+- **Homepage:** The homepage provides an overview of the application and its features. From here, you can explore features, upload scans, or learn more about how the analyzer works.
+- **Features:** Explore the advanced features offered by MRI Scan Analyzer, including automated image segmentation, quantitative analysis tools, and machine learning algorithms for pattern recognition.
+- **Upload Scan:** Upload your MRI scan data to analyze it instantly using our advanced algorithms.
+- **How It Works:** Learn about the step-by-step process behind MRI Scan Analyzer, from uploading scans to viewing results and insights.
+
