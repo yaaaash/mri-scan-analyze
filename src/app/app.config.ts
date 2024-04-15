@@ -1,8 +1,7 @@
-import { ApplicationConfig } from '@angular/core';
-import { provideRouter } from '@angular/router';
+// app.config.ts
 
-import { routes } from './app.routes';
-
-export const appConfig: ApplicationConfig = {
-  providers: [provideRouter(routes)]
+export const appConfig = {
+  appName: 'MriScanAnalyze',
+  version: '1.0.0',
+  environment: 'development'
 };

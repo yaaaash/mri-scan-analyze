@@ -1,0 +1,29 @@
+.main-container {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.container {
+  text-align: center;
+}
+
+.feature-list, .benefits {
+  margin-top: 20px;
+}
+
+.feature-list h3, .benefits h3 {
+  color: #155f68;
+}
+
+.feature-list ul, .benefits ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.feature-list li, .benefits li {
+  margin-bottom: 10px;
+}
